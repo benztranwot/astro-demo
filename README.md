@@ -18,6 +18,7 @@ An astro-clone landing page built with Astro.
 
 - [Astro](https://astro.build/)
 - [Typescript Interfaces](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#interfaces)
+- Markdown
 - HTML
 - CSS
 
